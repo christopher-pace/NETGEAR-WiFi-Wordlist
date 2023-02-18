@@ -1,1 +1,1 @@
-This is a placeholder for the research files.
+This folder contains the CSV and other files used during the research of this wordlist.
